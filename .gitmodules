@@ -1,0 +1,6 @@
+[submodule "learn-lua-15-minutes/examplepackage.torch"]
+	path = learn-lua-15-minutes/examplepackage.torch
+	url = git@github.com:soumith/examplepackage.torch.git
+[submodule "cvpr2015"]
+	path = cvpr2015
+	url = git@github.com:soumith/cvpr2015.git
